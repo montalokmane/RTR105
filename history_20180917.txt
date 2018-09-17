@@ -1,0 +1,35 @@
+    1  root
+    2  man
+    3  2
+    4  mkdir
+    5  pwd
+    6  cd Darbvirsma
+    7  mkdir Test
+    8  cd Test
+    9  mkdir ff.txt
+   10  rm ff.txt
+   11  rm -r ff.txt
+   12  pwd
+   13  ls
+   14  cd Darbvirsma
+   15  cd ..
+   16  uname 
+   17  man uname
+   18  uname -a
+   19  echo
+   20  echo&
+   21  echo $0
+   22  sh
+   23  echo $0
+   24  whoami
+   25  who
+   26  pwd
+   27  man pwd
+   28  ls
+   29  ls -l
+   30  ls -a
+   31  ls-la
+   32  ls -la
+   33  ls -al
+   34  history
+   35  history > history_20180917.txt
