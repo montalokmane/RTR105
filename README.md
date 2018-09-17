@@ -37,5 +37,5 @@ Datormācības kursa elektroniskā klade
 **nano** teksta redaktors  
 **cp** kopēt  
 **mv** pārvietot  
-**mvfails*.txt** pārcelt visus failus, kura nosaukumā ir vārds fails
+
 
