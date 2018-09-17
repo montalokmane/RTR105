@@ -33,3 +33,109 @@
    33  ls -al
    34  history
    35  history > history_20180917.txt
+   36  ls
+   37  cat history_20180917.txt 
+   38  pwd
+   39  l
+   40  ls -l 
+   41  cd Mūzika/
+   42  pwd
+   43  ls
+   44  ls -l 
+   45  ls a
+   46  ls -la 
+   47  cd ..
+   48  ls -la
+   49  pwd
+   50  cd .
+   51  ls -la 
+   52  cd.
+   53  cd .
+   54  ls-la
+   55  cd .
+   56  pwd
+   57  cd ..
+   58  pwd
+   59  cd /home/user
+   60  cd/home/lietotajs
+   61  cd .. 
+   62  pwd
+   63  cd ~
+   64  cd /
+   65  pwd
+   66  cd
+   67  pwd
+   68  cd ../ ../
+   69  cd ../../
+   70  pwd
+   71  cd home/lietotajs/
+   72  pwd
+   73  cd Darbvirsma/
+   74  pwd
+   75  mkdir ManaMape
+   76  ls
+   77  ls -l
+   78  cd ManaMape/
+   79  ls
+   80  ls -la
+   81  cd..
+   82  pwd
+   83  rmdir ManaMape
+   84  rmdir ManaMApe/
+   85  mkdir ManaMape/
+   86  cd ManaMape/
+   87  mkdir ManaPapildusMape
+   88  cd ManaPapildusMape/
+   89  pwd
+   90  cd
+   91  ls
+   92  rmdir ManaMape
+   93  rmdir ManaMape/
+   94  man rm 
+   95  rm -r ManaMape/
+   96  ls
+   97  man echo "Teksts"
+   98  echo Teksts
+   99  echo "Teksts/nTeksts/nTeksts"
+  100  echo -e "Teksts/nTeksts/nTeksts"
+  101  "Teksts" > fails1.txt
+  102  echo "Teksts" > fail1.txt
+  103  ls -l
+  104  cat fails1.txt
+  105  echo\Teksts "teksts\nTeksts\nTeksts"
+  106  echo "Cits teksts" >fails1.txt
+  107  echo "Cits teksts" > fails1.txt
+  108  echo "Teksts" > fails1.txt
+  109  echo "Cits teksts" >> fails.txt
+  110  chmod 500 fails1.txt
+  111  ls -l
+  112  echo "Pavisam cits teksts" > fails1.txt
+  113  echo "Cits teksts" >> ../ fails1.txt
+  114  pwd
+  115  nano
+  116  ls -l
+  117  cp fails2.txt fails3.txt
+  118  cp fails2.txtfails3.txt
+  119  mv fails1.txt Mūzika/
+  120  ls -l
+  121  cd Mūzika/
+  122  cd..
+  123  cd .. 
+  124  ls
+  125  mv fails*.txt Mūzika/
+  126  cd Mūzika/
+  127  ls
+  128  mv fails3.txt fails4.txt
+  129  mv fails1.txt ../fails101.txt
+  130  ls
+  131  cd ..
+  132  ls
+  133  mv Mūzika/*.txt ./
+  134  ls
+  135  rm fail*.txt
+  136  y
+  137  ls
+  138  rm fails*.txt
+  139  ls
+  140  history
+  141  history > history_20180917.txt 
