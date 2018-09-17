@@ -18,4 +18,7 @@ Datormācības kursa elektroniskā klade
 **echo** palīdz ierakstīt informāciju failā/mapē  
 **rm** dzēst failus  
 **ls -la** informācija par failiem un mapēm  
-**rwx** tiesības  
+**rwx** lietotāja tiesības, kas pieejamas  
+**man who** kurš ir izmantojis sistēmu  
+**ls** faili  
+
