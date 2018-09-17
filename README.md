@@ -20,5 +20,9 @@ Datormācības kursa elektroniskā klade
 **ls -la** informācija par failiem un mapēm  
 **rwx** lietotāja tiesības, kas pieejamas  
 **man who** kurš ir izmantojis sistēmu  
-**ls** faili  
+**ls** faili, kas pieejami mapē  
+**tab** papildināt iesākto tekstu ar iepriekš izmantotām frāzēm  
+**cd** pārvietoties pa mapēm  
+**.** vieta tekošā mapē  
+**/** saknes apgabals
 
