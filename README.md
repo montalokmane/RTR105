@@ -14,8 +14,7 @@ Datormācības kursa elektroniskā klade
 **cat** no kā sastāv fails  
 **uname** kāda Linux versija darbojas  
 **ctrl alt f1** cits logs, kurā strādāt  
-**exit** iziet  
-**echo** palīdz ierakstīt informāciju failā/mapē  
+**exit** iziet   
 **rm** dzēst failus  
 **ls -la** informācija par failiem un mapēm  
 **rwx** lietotāja tiesības, kas pieejamas  
