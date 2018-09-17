@@ -25,4 +25,7 @@ Datormācības kursa elektroniskā klade
 **cd** pārvietoties pa mapēm  
 **.** vieta tekošā mapē  
 **/** saknes apgabals
-
+**~** mājas apgabals  
+**mkdir** izveidot mapi  
+**rmdir** dzēst mapi
+**rm** 
