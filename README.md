@@ -1,5 +1,5 @@
 # RTR105
-Datormācības kursa elektroniskā klade
+Datormācības kursa elektroniskā klade  
 **ctrl shift t** papildus logs    
 **ctr l** attīra ekrānu    
 **q** iziet  
@@ -7,7 +7,7 @@ Datormācības kursa elektroniskā klade
 **history** vēsture    
 **whoami** kas es esmu    
 **man uname** komanda, ko apskata  
-**who*** kurš  
+**who** kurš  
 **d** mape  
 **-** fails  
 **ls -a** slēptie faili  
@@ -17,3 +17,5 @@ Datormācības kursa elektroniskā klade
 **exit** iziet  
 **echo** palīdz ierakstīt informāciju failā/mapē  
 **rm** dzēst failus  
+**ls -la** informācija par failiem un mapēm  
+**rwx** tiesības  
