@@ -28,4 +28,14 @@ Datormācības kursa elektroniskā klade
 **~** mājas apgabals  
 **mkdir** izveidot mapi  
 **rmdir** dzēst mapi
-**rm** 
+**rm** remove  
+**echo** parāda tekstu uz ekrāna  
+**\n** jauna rinda  
+**\a** skaņa
+**cat** lasa failus, kā teksts failus  
+**>** izveidot failus  
+**nano** teksta redaktors  
+**cp** kopēt  
+**mv** pārvietot  
+**mvfails*.txt** pārcelt visus failus, kura nosaukumā ir vārds fails
+
