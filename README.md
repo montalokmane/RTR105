@@ -39,5 +39,8 @@ Datormācības kursa elektroniskā klade
 **CHMOD** piešķirt tiesības  
 **$ PATH** tiek meklēti piesaucamie faili  
 **=** piešķiršanas operācija  
-**nano**  
+**nano** ļauj rediģēt teksta failu    
+**PYTHON**  
+**objekts.__doc__** dokumentācijas pieprasīšana  
+**vars()** noskaidrot, kas ir pieejams    
 

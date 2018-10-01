@@ -1,0 +1,96 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  who
+    4  ls
+    5  pwd
+    6  whereis ls
+    7  nano mans_skripts.sh
+    8  ls-l
+    9  ls -l
+   10  cat mans_skripts.sh
+   11  ls
+   12  ./mans_skripts.sh
+   13  ls -l
+   14  ~/mans_skripts.sh
+   15  ls
+   16  /home/user/mans_skripts.sh
+   17  mans_skripts.sh
+   18  ls -l
+   19  chmod 764 mans_skripts.sh
+   20  ls -l
+   21  mans_skripts.sh
+   22  echo $PATH
+   23  ls -l
+   24  /bin/
+   25  ls/l
+   26  ls -l /bin | grep ls
+   27  pwd
+   28  PATH=$PATH:~
+   29  echo $PATH
+   30  mans_skripts.sh 
+   31  ls -l
+   32  nano mans_skripts.sh
+   33  pwd
+   34  cd
+   35  pwd
+   36  ls -l
+   37  rm -r Mape/
+   38  ls -l
+   39  git clone https:/github.com/montalokmane/RTR105
+   40  git clone https://github.com/montalokmane/RTR105
+   41  ls -l
+   42  mv mans_skripts.sh RTR105/
+   43  cd RTR105/
+   44  ls -l
+   45  nano README.md
+   46  history
+   47  README.md
+   48  nano README.md
+   49  ls -l
+   50  history > history_20181001a.txt
+   51  ls -l
+   52  nano git-upload
+   53  ls -l
+   54  chmod 764 git-upload
+   55  ./git-upolad 20181001_11_45
+   56  ls -l
+   57  nano git-upload
+   58  ./git-upolad 20181001_11_45
+   59  ./git-upload 20181001_11_45
+   60  ls -l
+   61  cd
+   62  ls -l
+   63  rm -r
+   64  rm -rf RTR105/
+   65  ls-l
+   66  ls -l
+   67  git clone https://github.com/montalokmane/RTR105
+   68  pwd
+   69  python
+   70  ipython
+   71  idle &
+   72  ls -l
+   73  cat
+   74  mv dgr_20181001.py RTR105/
+   75  ls -l
+   76  cd RTR105/
+   77  ls -l
+   78  cat dgr_20181001.py 
+   79  ls -l
+   80  nano test_1.py
+   81  ls -l
+   82  nano test_1.py
+   83  python test_1.py
+   84  nano test_1.py
+   85  python test_1.py 
+   86  nano test_1.py
+   87  python test_1.py 
+   88  nano test_1.py
+   89  python test_1.py 
+   90  ./test_1.py
+   91  ls -l
+   92  chmod 764 test_1.py
+   93  ./test_1.py
+   94  idle test_1.py &
+   95  ls -l
+   96  history > history_20181001b.txt
