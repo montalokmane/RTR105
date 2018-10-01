@@ -30,7 +30,7 @@ Datormācības kursa elektroniskā klade
 **rm** remove  
 **echo** parāda tekstu uz ekrāna  
 **\n** jauna rinda  
-**\a** skaņa
+**\a** skaņa  
 **cat** lasa failus, kā teksts failus  
 **>** izveidot failus  
 **nano** teksta redaktors  
