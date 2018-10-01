@@ -36,5 +36,8 @@ Datormācības kursa elektroniskā klade
 **nano** teksta redaktors  
 **cp** kopēt  
 **mv** pārvietot  
-
+**CHMOD** piešķirt tiesības  
+**$ PATH** tiek meklēti piesaucamie faili  
+**=** piešķiršanas operācija  
+**nano**  
 
