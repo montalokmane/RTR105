@@ -43,4 +43,7 @@ Datormācības kursa elektroniskā klade
 **PYTHON**  
 **objekts.__doc__** dokumentācijas pieprasīšana  
 **vars()** noskaidrot, kas ir pieejams    
-
+**Funkcijas**
+**def ():** definēšana
+     ** vismaz viena darbība ar četrām atstarpēm priekšā **
+**retrun**- izejas dati
