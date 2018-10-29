@@ -1,0 +1,259 @@
+Python 2.7.12 (default, Dec  4 2017, 14:50:18) 
+[GCC 5.4.0 20160609] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test5_2018_10_29.py", line 4, in <module>
+    w
+NameError: name 'w' is not defined
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+H
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test5_2018_10_29.py", line 20, in <module>
+    print(sval+1)
+TypeError: cannot concatenate 'str' and 'int' objects
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test5_2018_10_29.py", line 18, in <module>
+    ival= int(sval)
+NameError: name 'sval' is not defined
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+Hello
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+Hello
+Hola
+Bonjour
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+Hello
+Hola
+Bonjour
+(' Hello', ' Glenn')
+(' Hello', ' Sally')
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+Hello
+Hola
+Bonjour
+(' Hello', 'Glenn')
+(' Hello', 'Sally')
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+Hello
+Hola
+Bonjour
+(' Hello', 'Glenn')
+(' Hello', 'Sally')
+('Hello', 'Glenn')
+('Hola', 'Sally')
+('Bonjour', 'Michael')
+>>> 
+=============== RESTART: /home/user/RTR105/test5_2018_10_29.py ===============
+Hello
+w
+ 
+w
+0.99
+42.0
+-2.5
+Hello
+yo
+7
+Hello
+yo
+I sleep all night and I work all day.
+7
+Hello
+Hola
+Bonjour
+(' Hello', 'Glenn')
+(' Hello', 'Sally')
+('Hello', 'Glenn')
+('Hola', 'Sally')
+('Bonjour', 'Michael')
+8
+>>> 
