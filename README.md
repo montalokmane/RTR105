@@ -47,3 +47,9 @@ Datormācības kursa elektroniskā klade
 **def ():** definēšana
      ** vismaz viena darbība ar četrām atstarpēm priekšā **
 **retrun**- izejas dati
+**Cikli**
+**While**-kamēr
+**break**- pārtraukt izskatīt sarakstu
+**continiue**- atsākt
+**for** Saraksta mainīgais
+**[]:** mainīgā saraksts
