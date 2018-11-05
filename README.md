@@ -41,19 +41,19 @@ Datormācības kursa elektroniskā klade
 
 **=** piešķiršanas operācija  
 **nano** ļauj rediģēt teksta failu    
-**PYTHON**  
-**objekts.__doc__** dokumentācijas pieprasīšana  
-**vars()** noskaidrot, kas ir pieejams    
-**Funkcijas**
-**def ():** definēšana
-     ** vismaz viena darbība ar četrām atstarpēm priekšā **
-**retrun**- izejas dati
-**Cikli**
-**While**-kamēr
-**break**- pārtraukt izskatīt sarakstu
-**continiue**- atsākt
-**for** Saraksta mainīgais
-**[]:** mainīgā saraksts
+**PYTHON**    
+**objekts.__doc__** dokumentācijas pieprasīšana    
+**vars()** noskaidrot, kas ir pieejams      
+**Funkcijas**  
+**def ():** definēšana  
+     ** vismaz viena darbība ar četrām atstarpēm priekšā **  
+**retrun**- izejas dati  
+**Cikli**  
+**While**-kamēr  
+**break**- pārtraukt izskatīt sarakstu  
+**continiue**- atsākt  
+**for** Saraksta mainīgais  
+**[]:** mainīgā saraksts  
 s= 'Monty Python'
 print(s[:2]) = MO  
 print(s[8:]) = thon  
