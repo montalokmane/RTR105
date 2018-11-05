@@ -38,6 +38,10 @@ Datormācības kursa elektroniskā klade
 **mv** pārvietot  
 **CHMOD** piešķirt tiesības  
 **$ PATH** tiek meklēti piesaucamie faili  
+s= 'Monty Python'
+print(s[:2]) = MO
+print(s[8:]) = thon
+print(s[:]) = Monty Python
 **=** piešķiršanas operācija  
 **nano** ļauj rediģēt teksta failu    
 **PYTHON**  
