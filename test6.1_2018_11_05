@@ -1,0 +1,989 @@
+Python 2.7.12 (default, Dec  4 2017, 14:50:18) 
+[GCC 5.4.0 20160609] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 6, in <module>
+    str3= str + 1
+TypeError: unsupported operand type(s) for +: 'type' and 'int'
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 6, in <module>
+    str3= str + 1
+TypeError: unsupported operand type(s) for +: 'type' and 'int'
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 6, in <module>
+    str3= str3 + 1
+TypeError: cannot concatenate 'str' and 'int' objects
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 6, in <module>
+    str3= (str3 + 1)
+TypeError: cannot concatenate 'str' and 'int' objects
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 16, in <module>
+    print(zot[5])
+IndexError: string index out of range
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 16, in <module>
+    print(zot[5])
+IndexError: string index out of range
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+Hello Jane
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+Hello Jane
+HellX BXb
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+Hello Jane
+HellX BXb
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 100, in <module>
+    greet.Istrip()
+AttributeError: 'str' object has no attribute 'Istrip'
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+Hello Jane
+HellX BXb
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 100, in <module>
+    greet.istrip()
+AttributeError: 'str' object has no attribute 'istrip'
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+Hello Jane
+HellX BXb
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 100, in <module>
+    greet.Istrip()
+AttributeError: 'str' object has no attribute 'Istrip'
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+Hello Jane
+HellX BXb
+
+Traceback (most recent call last):
+  File "/home/user/RTR105/test6_2018_11_05.py", line 100, in <module>
+    greet.Istrip()
+AttributeError: 'str' object has no attribute 'Istrip'
+>>> 
+=============== RESTART: /home/user/RTR105/test6_2018_11_05.py ===============
+Hellothere
+a
+n
+6
+(0, 'b')
+(1, 'a')
+(2, 'n')
+(3, 'a')
+(4, 'n')
+(5, 'a')
+b
+a
+n
+a
+n
+a
+b
+a
+n
+a
+n
+a
+3
+Mont
+ 
+ Python
+Mo
+thon
+Monty Python
+HelloThere
+HelloThere
+Found it!
+All right, bananas.
+All right, bananas.
+hello bob
+Hello Bob
+hi there
+2
+-1
+HELLO BOB
+hello bob
+Hello Jane
+HellX BXb
+>>> 
