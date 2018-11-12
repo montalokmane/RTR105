@@ -38,6 +38,7 @@ Datormācības kursa elektroniskā klade
 **mv** pārvietot  
 **CHMOD** piešķirt tiesības  
 **$ PATH** tiek meklēti piesaucamie faili  
+**Ctrl+d** izieit no python   
 
 **=** piešķiršanas operācija  
 **nano** ļauj rediģēt teksta failu    
