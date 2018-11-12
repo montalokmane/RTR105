@@ -38,11 +38,11 @@ Datormācības kursa elektroniskā klade
 **mv** pārvietot  
 **CHMOD** piešķirt tiesības  
 **$ PATH** tiek meklēti piesaucamie faili  
-**Ctrl+d** izieit no python   
-
+**Ctrl+d** iziet no python   
 **=** piešķiršanas operācija  
 **nano** ļauj rediģēt teksta failu    
-**PYTHON**    
+**PYTHON**  
+**Ctrl+d** iziet no python  
 **objekts.__doc__** dokumentācijas pieprasīšana    
 **vars()** noskaidrot, kas ir pieejams      
 **Funkcijas**  
