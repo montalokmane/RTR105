@@ -4,7 +4,7 @@ from time import sleep
 
 def f(x):
 	return sin(x)
-
+k = 0
 a = 1.1
 b = 3.2
  
@@ -20,6 +20,7 @@ else:
 deltax = 0.01
 
 while ( fabs (b-a) > deltax ) :
+    k = k+1
     x = (a+b)/2; funx = f(x)
     if (funa * funx < 0. ) :
         b = x
@@ -27,3 +28,5 @@ while ( fabs (b-a) > deltax ) :
         a = x
 
 print " Sakne ir : ", x
+print " f(x) = "
+print " Nepieciešamo iterāciju skaits intervālu dalīšanai uz pusēm: k= "
