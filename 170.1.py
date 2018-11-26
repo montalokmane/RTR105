@@ -26,4 +26,4 @@ while ( fabs (b-a) > deltax ) :
     else:
         a = x
 
-print " Sakne is : ", x
+print " Sakne ir : ", x
